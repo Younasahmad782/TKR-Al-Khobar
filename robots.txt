@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tkr-al-khobar.vercel.app/sitemap.xml
